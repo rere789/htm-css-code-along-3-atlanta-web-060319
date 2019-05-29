@@ -22,7 +22,7 @@ selectors {
    font-size: 0.7em;
    line-height: 1.5em;
    font-family: 'Elsie Swash Caps', cursive;*/
-   font:normal 0.75em/1.5em Georgia, "Times New Roman", Sans-Serif ;
+   font:normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
    color: #777;
    text-align: right;
  }
