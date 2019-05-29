@@ -16,10 +16,12 @@ selectors {
  } 
  
  figcaption {
-   font-weight: normal;
+   /* font-weight: normal;
    font-size: 0.7em;
    line-height: 1.5em;
-   font-family: Georgia, "Times New Roman", Sans-Serif;
-   font: ;
+   font-family: Georgia, "Times New Roman", Sans-Serif;*/
+   font:normal 0.75em/1.5em Georgia, "Times New Roman", Sans-Serif ;
+   color: #777;
+   text-align: right;
  }
  
